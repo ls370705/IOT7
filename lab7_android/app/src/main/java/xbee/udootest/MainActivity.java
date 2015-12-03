@@ -77,7 +77,8 @@ public class MainActivity extends Activity{
         Attribute attribute1 = new Attribute("pulse");
         Attribute attribute2 = new Attribute("oxygen");
 
-        fvClassVal = new FastVector(2);
+        fvClassVal = new FastVector(3);
+        fvClassVal.addElement("Init");
         fvClassVal.addElement("Rest");
         fvClassVal.addElement("Stress");
         Attribute classAttribute = new Attribute("class", fvClassVal);
