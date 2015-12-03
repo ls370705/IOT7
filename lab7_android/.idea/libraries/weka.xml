@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weka">
+    <CLASSES>
+      <root url="jar:///media/windows/Users/Randolph/OneDrive/Programming/android/lab4_android/app/libs/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
